@@ -1,0 +1,64 @@
+body{
+background-color:#ffe6e6;
+}
+/* Navigation Bar */
+.navigation{
+font-size:30px;
+outline-color: Purple;
+outline-width: 5px;
+outline-style:double;
+background:White;
+word-spacing: 100px;
+text-align: center;
+}
+
+/* This class sets the style for validator images in web pages */
+.validators{
+float:left;
+width:70px;
+}
+
+h1{
+font-size:45px;
+color: Indigo;
+font-weight: bold;
+text-align: center;
+}
+
+h2{
+font-size:30px;
+text-align: center;
+}
+
+img{
+float:right;
+margin-left: 2%;
+margin-bottom: 5%;
+margin-top: 4%;
+width:300px;
+outline-color: Purple;
+outline-width: 5px;
+outline-style:double;
+}
+
+ul, ol{
+font-size:20px;
+color:DarkBlue;
+font-family:Arial, sans-serif;
+}
+
+h3, p{
+line-height: 115%;
+font-size:20px;
+color:DarkBlue;
+font-family:Verdana, sans-serif;
+}
+
+/* This class sets the style for steps in recipes */
+.highlight{
+background-color:White;
+font-size: 20px;
+border-radius:4px;
+padding:10px;
+padding-left:30px;
+}
