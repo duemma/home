@@ -41,6 +41,10 @@ outline-width: 5px;
 outline-style:double;
 }
 
+a{
+color:#1633bf;
+}
+
 ul, ol{
 font-size:20px;
 color:DarkBlue;
@@ -60,5 +64,5 @@ background-color:White;
 font-size: 20px;
 border-radius:4px;
 padding:10px;
-padding-left:30px;
+padding-left:40px;
 }
